@@ -186,11 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Insight/Capitulos/11.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 11"
+              "title": "File properties"
             }
           }
         ],
@@ -214,10 +212,10 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "d2197f28fee49bc7",
+  "active": "a4418ef10f28b3da",
   "lastOpenFiles": [
-    "Untitled.md",
     "Insight/Capitulos/11.md",
+    "Untitled.md",
     "Insight/Capitulos",
     "Libros.base",
     "Insight/Insight - El duelo de los soles.md",
