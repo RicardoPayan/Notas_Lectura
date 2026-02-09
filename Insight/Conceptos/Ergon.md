@@ -1,0 +1,1 @@
+Todavia no se explica del todo que es. Pero es el humo rojo que [[Zed]] ve en las personas. Al parecer, relacionado a la energia de tipo emocional

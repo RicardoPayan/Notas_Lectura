@@ -1,0 +1,3 @@
+Una enfermedad que le da a las personas que no pueden contralar energía. Pero no [[Sleeb | Sleebs]] si no a los humanos que si viven en el mundo de magia.
+
+Se menciona que solo se esta dando en ciudades pequeñas y pueblos. Que los ricos están a salvo de ella de momento...

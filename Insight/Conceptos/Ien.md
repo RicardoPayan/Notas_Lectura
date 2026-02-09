@@ -1,0 +1,1 @@
+Conexión entre la mente y la materia. Lo que permite empujar o tirar de objetos.

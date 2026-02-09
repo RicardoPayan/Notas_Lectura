@@ -1,0 +1,1 @@
+La peliroja riquilla y medio tsundere.
