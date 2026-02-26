@@ -1,0 +1,1 @@
+Antagonista. Asesino de la madre de [[Zed]]

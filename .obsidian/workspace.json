@@ -6,74 +6,29 @@
       {
         "id": "1df1ed6d2203f874",
         "type": "tabs",
-        "dimension": 49.58333333333334,
-        "children": [
-          {
-            "id": "a4418ef10f28b3da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Insight/Capitulos/13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13"
-            }
-          },
-          {
-            "id": "c8421caea26373a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Insight/Capitulos/17-19.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "17-19"
-            }
-          },
-          {
-            "id": "a0a63e0a0b877abf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Insight/Conceptos/Dragones de Carbon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dragones de Carbon"
-            }
-          },
-          {
-            "id": "e6108a6affd644b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Insight/Capitulos/17-19.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "17-19"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "e63ee694f8c631f0",
-        "type": "tabs",
-        "dimension": 50.41666666666666,
         "children": [
           {
             "id": "9f1fa7aa15bcde9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Insight/Capitulos/25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25"
+            }
+          }
+        ]
+      },
+      {
+        "id": "24997b6429db9812",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "165a204f5894c2d2",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -260,35 +215,40 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "e6108a6affd644b4",
+  "active": "9f1fa7aa15bcde9e",
   "lastOpenFiles": [
-    "Insight/Conceptos/Duelo de los Soles.md",
+    "Insight/Personajes/Lenick Ackerson.md",
+    "Insight/Personajes/Julius Morgan.md",
+    "Insight/Capitulos/25.md",
+    "Insight/Capitulos/23-24.md",
+    "Insight/Conceptos/Palacio de la Eternidad.md",
+    "Insight/Personajes/Kara.md",
+    "Insight/Capitulos/21.md",
+    "Insight/Personajes/Jhan Beijing.md",
     "Insight/Conceptos/Dragones de Carbon.md",
+    "Insight/Capitulos/13.md",
     "Insight/Capitulos/17-19.md",
+    "Insight/Conceptos/Ergon.md",
+    "Insight/Conceptos/Savilles.md",
+    "Insight/Personajes/Kali.md",
+    "Insight/Conceptos/Duelo de los Soles.md",
     "Insight/Capitulos/15-16.md",
     "Insight/Personajes/Nate.md",
     "Insight/Personajes/Ruth.md",
     "Insight/Capitulos/14.md",
     "Insight/Conceptos/Peste blanca.md",
-    "Insight/Conceptos/Ergon.md",
-    "Insight/Capitulos/13.md",
     "Insight/Conceptos/Éter.md",
     "Insight/Conceptos/Sleeb.md",
     "Insight/Personajes/Anne.md",
     "Insight/Personajes/Valon.md",
     "Insight/Conceptos/Ien.md",
     "Insight/Personajes/Zed.md",
-    "Insight/Capitulos/11.md",
     "Insight/Personajes",
     "Insight/Conceptos",
-    "Insight/Insight - El duelo de los soles.md",
-    "Insight/Capitulos/12.md",
-    "Untitled.md",
     "Insight/Capitulos",
     "Libros.base",
     "assets",
     "assets/Pasted image 20260203211511.png",
-    "Welcome.md",
     "Insight"
   ]
 }
