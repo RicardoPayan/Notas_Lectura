@@ -1,0 +1,1 @@
+Personas que no pueden usar [[Ergon]], osea personas no magicas.

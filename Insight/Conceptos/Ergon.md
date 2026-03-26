@@ -6,3 +6,9 @@ Es energia o magia de tipo emocional. Al parecer esta especializado en la batall
 - Tristeza
 
 Entre otros sentimientos que podrian percibirse como negativos. 
+
+## Rojo
+Relacionado a la ira.
+
+## Negro
+Relacionado al miedo.

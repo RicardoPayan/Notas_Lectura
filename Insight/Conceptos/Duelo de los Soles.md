@@ -1,1 +1,1 @@
-El torneo principal del libro.
+Otra competicion, diferente a la [[Copa Dragon]], al parecer es lo que le sigue.

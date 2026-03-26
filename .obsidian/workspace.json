@@ -4,31 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1df1ed6d2203f874",
+        "id": "434a93e713dda410",
         "type": "tabs",
         "children": [
           {
-            "id": "9f1fa7aa15bcde9e",
+            "id": "f27274c2538e3c7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Insight/Capitulos/25.md",
+                "file": "Insight/Conceptos/Dragones de Carbon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25"
+              "title": "Dragones de Carbon"
             }
           }
         ]
       },
       {
-        "id": "24997b6429db9812",
+        "id": "e4501ac72c70c43d",
         "type": "tabs",
         "children": [
           {
-            "id": "165a204f5894c2d2",
+            "id": "77121b3ad43b4a36",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -215,34 +215,34 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "9f1fa7aa15bcde9e",
+  "active": "f27274c2538e3c7c",
   "lastOpenFiles": [
+    "Insight/Capitulos/31-32.md",
+    "Insight/Insight - El duelo de los soles.md",
+    "Insight/Capitulos/29-30.md",
+    "Insight/Conceptos/Ergon.md",
+    "Insight/Personajes/Finn.md",
+    "Insight/Conceptos/Dragones de Carbon.md",
+    "Insight/Conceptos/Duelo de los Soles.md",
+    "Insight/Conceptos/Dragones de plata.md",
+    "Insight/Conceptos/Copa Dragon.md",
+    "Insight/Conceptos/Peste blanca.md",
+    "Insight/Capitulos/27.md",
+    "Insight/Conceptos/Athien.md",
+    "Insight/Personajes/Meria.md",
+    "Insight/Capitulos/25.md",
+    "Insight/Conceptos/Sección Sagrada.md",
+    "Insight/Capitulos/26.md",
+    "Insight/Conceptos/Nombgi.md",
+    "Insight/Personajes/Valon.md",
+    "Insight/Conceptos/Entus.md",
+    "Insight/Personajes/Mattheo Marttens.md",
     "Insight/Personajes/Lenick Ackerson.md",
     "Insight/Personajes/Julius Morgan.md",
-    "Insight/Capitulos/25.md",
     "Insight/Capitulos/23-24.md",
     "Insight/Conceptos/Palacio de la Eternidad.md",
     "Insight/Personajes/Kara.md",
     "Insight/Capitulos/21.md",
-    "Insight/Personajes/Jhan Beijing.md",
-    "Insight/Conceptos/Dragones de Carbon.md",
-    "Insight/Capitulos/13.md",
-    "Insight/Capitulos/17-19.md",
-    "Insight/Conceptos/Ergon.md",
-    "Insight/Conceptos/Savilles.md",
-    "Insight/Personajes/Kali.md",
-    "Insight/Conceptos/Duelo de los Soles.md",
-    "Insight/Capitulos/15-16.md",
-    "Insight/Personajes/Nate.md",
-    "Insight/Personajes/Ruth.md",
-    "Insight/Capitulos/14.md",
-    "Insight/Conceptos/Peste blanca.md",
-    "Insight/Conceptos/Éter.md",
-    "Insight/Conceptos/Sleeb.md",
-    "Insight/Personajes/Anne.md",
-    "Insight/Personajes/Valon.md",
-    "Insight/Conceptos/Ien.md",
-    "Insight/Personajes/Zed.md",
     "Insight/Personajes",
     "Insight/Conceptos",
     "Insight/Capitulos",
