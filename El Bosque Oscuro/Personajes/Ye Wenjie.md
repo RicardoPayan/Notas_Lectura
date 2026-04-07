@@ -1,0 +1,2 @@
+Una profesora de Astronomía. Creadora de los [[Axiomas de Sociología Cósmica]]
+Una de las protagonistas del primer libro, es la mujer que traiciona a la tierra, invitando a los invasores [[Trisolaris]]

@@ -1,0 +1,2 @@
+Plan de la humanidad para dejar la tierra antes de la llega de los [[Trisolaris]].
+Se busca otro planeta o alejarse lo suficiente del sistema solar para despues negociar con los Trisolaris si pueden volver.

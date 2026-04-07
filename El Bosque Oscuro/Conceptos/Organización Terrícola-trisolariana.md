@@ -1,0 +1,1 @@
+Faccion de humanos que ayudan a los [[Trisolaris]] 

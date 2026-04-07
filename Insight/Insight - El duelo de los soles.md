@@ -4,6 +4,8 @@ banner-x: 50
 banner-y: 21
 banner-height: 830
 content-start: 636
-Autor: Alejandro E Baca Fernandez
+Autor: Manuel Garfio
 ---
 Libro de fantasia del Tiktoker que sigo en instagram. Segunda vez que trato de leerlo. Lo hago como un ejercicio de aprender algo de un autor relativamente cercano. El chico hace buenos videos de recomendaciones y algo puedo aprender.
+
+CALIFACION : 3.5/

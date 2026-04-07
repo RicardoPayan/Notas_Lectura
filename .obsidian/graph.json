@@ -1,21 +1,35 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Insight  ",
       "color": {
         "a": 1,
-        "rgb": 2754175
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"El Bosque Oscuro\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3085471
+      }
+    },
+    {
+      "query": "path:\"El Bosque Oscuro/Capitulos/Año 3 de la era critica\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4788366
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -25,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.36288736930121085,
+  "scale": 0.36288736930121196,
   "close": true
 }

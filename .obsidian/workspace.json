@@ -13,22 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Insight/Conceptos/Dragones de Carbon.md",
+                "file": "El Bosque Oscuro/Capitulos/Año 3 de la era critica/07-04-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dragones de Carbon"
+              "title": "07-04-2026"
+            }
+          },
+          {
+            "id": "ab805b4e399c4a1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "El Bosque Oscuro/Conceptos/Escapismo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Escapismo"
             }
           }
         ]
       },
       {
-        "id": "e4501ac72c70c43d",
+        "id": "15517bfae8e95632",
         "type": "tabs",
         "children": [
           {
-            "id": "77121b3ad43b4a36",
+            "id": "b5f2bd46af698f7d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -215,40 +229,47 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "f27274c2538e3c7c",
+  "active": "b5f2bd46af698f7d",
   "lastOpenFiles": [
-    "Insight/Capitulos/31-32.md",
+    "El Bosque Oscuro/Capitulos/Año 3 de la era critica/07-04-2026.md",
+    "El Bosque Oscuro/Personajes/Shi Xiaoming.md",
+    "El Bosque Oscuro/Conceptos/Sofon.md",
+    "El Bosque Oscuro/Conceptos/Escapismo.md",
+    "El Bosque Oscuro/Capitulos/Año 3 de la era critica/Año 3 de la era critica.md",
+    "El Bosque Oscuro/Capitulos/Año 3 de la era critica",
+    "El Bosque Oscuro/Personajes/George Fitzroy.md",
+    "El Bosque Oscuro/Conceptos/NORAD.md",
+    "El Bosque Oscuro/Personajes/Wu Yue.md",
+    "El Bosque Oscuro/Personajes/Zhang Yuanchao.md",
+    "El Bosque Oscuro/Conceptos/Fuerza Espacial.md",
+    "El Bosque Oscuro/Conceptos/Organización Terrícola-trisolariana.md",
+    "El Bosque Oscuro/Personajes/Segundo Desvallador.md",
+    "assets/Pasted image 20260406072327.png",
+    "El Bosque Oscuro/Personajes/Zhang Beihai.md",
+    "El Bosque Oscuro/Conceptos/Dinastía Tang.md",
+    "El Bosque Oscuro/Capitulos/Prologo.md",
+    "El Bosque Oscuro/Personajes/Mike Evans.md",
+    "El Bosque Oscuro/Conceptos/Trisolaris.md",
+    "El Bosque Oscuro/El Bosque Oscuro.md",
+    "Libros.base",
     "Insight/Insight - El duelo de los soles.md",
-    "Insight/Capitulos/29-30.md",
-    "Insight/Conceptos/Ergon.md",
-    "Insight/Personajes/Finn.md",
-    "Insight/Conceptos/Dragones de Carbon.md",
-    "Insight/Conceptos/Duelo de los Soles.md",
-    "Insight/Conceptos/Dragones de plata.md",
-    "Insight/Conceptos/Copa Dragon.md",
-    "Insight/Conceptos/Peste blanca.md",
-    "Insight/Capitulos/27.md",
-    "Insight/Conceptos/Athien.md",
-    "Insight/Personajes/Meria.md",
-    "Insight/Capitulos/25.md",
-    "Insight/Conceptos/Sección Sagrada.md",
-    "Insight/Capitulos/26.md",
-    "Insight/Conceptos/Nombgi.md",
-    "Insight/Personajes/Valon.md",
-    "Insight/Conceptos/Entus.md",
-    "Insight/Personajes/Mattheo Marttens.md",
-    "Insight/Personajes/Lenick Ackerson.md",
-    "Insight/Personajes/Julius Morgan.md",
-    "Insight/Capitulos/23-24.md",
-    "Insight/Conceptos/Palacio de la Eternidad.md",
-    "Insight/Personajes/Kara.md",
-    "Insight/Capitulos/21.md",
+    "El Bosque Oscuro/Conceptos/Juicio Final.md",
+    "El Bosque Oscuro/Conceptos/Axiomas de Sociología Cósmica.md",
+    "El Bosque Oscuro/Personajes/Ye Wenjie.md",
+    "assets/Pasted image 20260405194023.png",
+    "El Bosque Oscuro/Personajes/Xiao Luo.md",
+    "El Bosque Oscuro/Personajes",
+    "El Bosque Oscuro/Conceptos",
+    "El Bosque Oscuro/Capitulos",
+    "assets/Pasted image 20260405170626.png",
+    "El Bosque Oscuro",
+    "Insight/Capitulos/Final.md",
+    "Insight/Personajes/Jahn Beijing.md",
+    "Insight/Capitulos/Quency.md",
     "Insight/Personajes",
     "Insight/Conceptos",
     "Insight/Capitulos",
-    "Libros.base",
     "assets",
-    "assets/Pasted image 20260203211511.png",
-    "Insight"
+    "assets/Pasted image 20260203211511.png"
   ]
 }

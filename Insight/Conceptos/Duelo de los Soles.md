@@ -1,1 +1,1 @@
-Otra competicion, diferente a la [[Copa Dragon]], al parecer es lo que le sigue.
+Competencia entre escuelas que sigue despues de [[Duelo de los Soles]]

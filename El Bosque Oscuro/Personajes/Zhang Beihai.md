@@ -1,0 +1,1 @@
+Oficial de mando del [[Dinastía Tang]]

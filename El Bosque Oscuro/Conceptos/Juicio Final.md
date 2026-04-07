@@ -1,0 +1,1 @@
+El barco de la facción humana que esta con los [[Trisolaris]]

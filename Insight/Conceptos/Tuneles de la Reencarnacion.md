@@ -1,0 +1,1 @@
+Entiendo que es a donde van las almas y se "limpian" antes de volver a asignarse a otro cuerpo.
