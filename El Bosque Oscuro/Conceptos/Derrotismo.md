@@ -1,0 +1,1 @@
+La idea de que la Humanida no tiene oportunidad contra la invasion [[Trisolaris]] y sentir la derrota sin siquiera hacer algo al respecto. 

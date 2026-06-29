@@ -8,47 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f27274c2538e3c7c",
+            "id": "edfb6cb64c1a6e24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El Bosque Oscuro/Capitulos/Año 3 de la era critica/07-04-2026.md",
+                "file": "El Bosque Oscuro/Capitulos/Año 12 de la era de la crisis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07-04-2026"
-            }
-          },
-          {
-            "id": "ab805b4e399c4a1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "El Bosque Oscuro/Conceptos/Escapismo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Escapismo"
-            }
-          }
-        ]
-      },
-      {
-        "id": "15517bfae8e95632",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b5f2bd46af698f7d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Año 12 de la era de la crisis"
             }
           }
         ]
@@ -74,7 +44,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -217,59 +187,59 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "b5f2bd46af698f7d",
+  "active": "edfb6cb64c1a6e24",
   "lastOpenFiles": [
-    "El Bosque Oscuro/Capitulos/Año 3 de la era critica/07-04-2026.md",
-    "El Bosque Oscuro/Personajes/Shi Xiaoming.md",
-    "El Bosque Oscuro/Conceptos/Sofon.md",
-    "El Bosque Oscuro/Conceptos/Escapismo.md",
-    "El Bosque Oscuro/Capitulos/Año 3 de la era critica/Año 3 de la era critica.md",
-    "El Bosque Oscuro/Capitulos/Año 3 de la era critica",
-    "El Bosque Oscuro/Personajes/George Fitzroy.md",
-    "El Bosque Oscuro/Conceptos/NORAD.md",
-    "El Bosque Oscuro/Personajes/Wu Yue.md",
-    "El Bosque Oscuro/Personajes/Zhang Yuanchao.md",
-    "El Bosque Oscuro/Conceptos/Fuerza Espacial.md",
-    "El Bosque Oscuro/Conceptos/Organización Terrícola-trisolariana.md",
-    "El Bosque Oscuro/Personajes/Segundo Desvallador.md",
-    "assets/Pasted image 20260406072327.png",
-    "El Bosque Oscuro/Personajes/Zhang Beihai.md",
-    "El Bosque Oscuro/Conceptos/Dinastía Tang.md",
-    "El Bosque Oscuro/Capitulos/Prologo.md",
-    "El Bosque Oscuro/Personajes/Mike Evans.md",
+    "El Bosque Oscuro/Capitulos/Año 12 de la era de la crisis.md",
+    "El Bosque Oscuro/Conceptos/Tianti III.md",
+    "El Bosque Oscuro/Capitulos/Año 8 de la era critica/24-06-2026 (Teoria del bosque oscuro).md",
+    "El Bosque Oscuro/Conceptos/187J3X1.md",
+    "El Bosque Oscuro/Conceptos/Maldicion.md",
+    "El Bosque Oscuro/Capitulos/Año 8 de la era critica/21-06-2026.md",
+    "El Bosque Oscuro/Conceptos/Ultima Frontera.md",
     "El Bosque Oscuro/Conceptos/Trisolaris.md",
-    "El Bosque Oscuro/El Bosque Oscuro.md",
-    "Libros.base",
-    "Insight/Insight - El duelo de los soles.md",
-    "El Bosque Oscuro/Conceptos/Juicio Final.md",
+    "El Bosque Oscuro/Personajes/Luo ji.md",
     "El Bosque Oscuro/Conceptos/Axiomas de Sociología Cósmica.md",
+    "El Bosque Oscuro/Conceptos/Sociología Cósmica.md",
     "El Bosque Oscuro/Personajes/Ye Wenjie.md",
+    "El Bosque Oscuro/Personajes/Bai Rong.md",
+    "El Bosque Oscuro/Capitulos/Año 8 de la era critica/Año 8.md",
+    "El Bosque Oscuro/Personajes/Aristoteles.md",
+    "El Bosque Oscuro/Personajes/Mozi.md",
+    "El Bosque Oscuro/Conceptos/Sofon.md",
+    "El Bosque Oscuro/Conceptos/Derrotismo.md",
+    "El Bosque Oscuro/Personajes/Frederick Tyler.md",
+    "El Bosque Oscuro/Capitulos/Año 3 de la era critica/16-06-2026.md",
+    "El Bosque Oscuro/Capitulos/Año 8 de la era critica",
+    "El Bosque Oscuro/Personajes/Zhuang Yan.md",
+    "El Bosque Oscuro/Conceptos/Hubble II.md",
+    "El Bosque Oscuro/Personajes/Xia Xia.md",
+    "El Bosque Oscuro/Capitulos/Año 3 de la era critica/14-06-2026.md",
+    "El Bosque Oscuro/Capitulos/Año 3 de la era critica/Año 3 de la era critica.md",
+    "El Bosque Oscuro/Personajes/Shi Qiang.md",
+    "El Bosque Oscuro/Capitulos/Año 3 de la era critica",
+    "assets/Pasted image 20260406072327.png",
+    "Libros.base",
     "assets/Pasted image 20260405194023.png",
-    "El Bosque Oscuro/Personajes/Xiao Luo.md",
     "El Bosque Oscuro/Personajes",
     "El Bosque Oscuro/Conceptos",
     "El Bosque Oscuro/Capitulos",
     "assets/Pasted image 20260405170626.png",
     "El Bosque Oscuro",
-    "Insight/Capitulos/Final.md",
-    "Insight/Personajes/Jahn Beijing.md",
-    "Insight/Capitulos/Quency.md",
     "Insight/Personajes",
     "Insight/Conceptos",
     "Insight/Capitulos",
-    "assets",
     "assets/Pasted image 20260203211511.png"
   ]
 }

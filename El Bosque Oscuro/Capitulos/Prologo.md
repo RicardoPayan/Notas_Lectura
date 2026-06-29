@@ -3,9 +3,10 @@ Comenzando la secuela [[El Bosque Oscuro]].
 El Prologo, por alguna razón, esta contando desde el POV de una hormiga, describiendo su comportamiento. Al final, en la referencia a su comunicación con Araña, creo que es una referencia que son reservadas en su comunicación y que, por supervivencia, es mejor no comunicarse; de esa manera garantizan que seguirán viviendo, aisladas, compartiendo un mismo espacio.
 Esto es una clara referencia la Teoría del bosque oscuro en la que se basa el libro.
 
-Desde el POV de la hormiga escuchamos una conversación entre [[Xiao Luo]] y [[Ye Wenjie]] en la cual Wenjie invita a Luo a mezclar su conocimiento de sociología y astronomía para crear una nueva rama: Sociología Cósmica. En la conversación también se plantea los [[Axiomas de Sociología Cósmica]]
+Desde el POV de la hormiga escuchamos una conversación entre [[Luo ji]] y [[Ye Wenjie]] en la cual Wenjie invita a Luo a mezclar su conocimiento de sociología y astronomía para crear una nueva rama: Sociología Cósmica. En la conversación también se plantea los [[Sociología Cósmica#Axiomas de Sociología Cósmica || Axiomas de la Sociologia Cosmica]]
 
-Mas adelante, por la hormiga, se confirma que estaban hablando en un cementerio. [[Xiao Luo]] perdió a alguien pero no se sabe a quien todavía.
+
+Mas adelante, por la hormiga, se confirma que estaban hablando en un cementerio. [[Luo ji]] perdió a alguien pero no se sabe a quien todavía.
 
 ---
 
