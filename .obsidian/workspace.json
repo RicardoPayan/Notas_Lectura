@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El Bosque Oscuro/Capitulos/Año 12 de la era de la crisis.md",
+                "file": "El Bosque Oscuro/Capitulos/Año 20 de la era de la crisis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Año 12 de la era de la crisis"
+              "title": "Año 20 de la era de la crisis"
+            }
+          },
+          {
+            "id": "edabfe9497c3aa66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "El Bosque Oscuro/Personajes/Wu Yue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wu Yue"
             }
           }
         ]
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Insight/Capitulos/11.md",
+                "file": "El Bosque Oscuro/Capitulos/Año 20 de la era de la crisis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 11"
+              "title": "Enlaces entrantes de Año 20 de la era de la crisis"
             }
           },
           {
@@ -177,8 +191,7 @@
               "title": "File properties for Ergon"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,6 +214,15 @@
   },
   "active": "edfb6cb64c1a6e24",
   "lastOpenFiles": [
+    "El Bosque Oscuro/Personajes/Wu Yue.md",
+    "El Bosque Oscuro/Personajes/Zhang Yuanchao.md",
+    "El Bosque Oscuro/Capitulos/Año 20 de la era de la crisis.md",
+    "El Bosque Oscuro/Personajes/Manuel Rey Díaz.md",
+    "El Bosque Oscuro/Capitulos/Centro para la Fe.md",
+    "El Bosque Oscuro/Capitulos/Precinto Mental.md",
+    "El Bosque Oscuro/Personajes/Bill Hines.md",
+    "El Bosque Oscuro/Personajes/Zhang Beihai.md",
+    "El Bosque Oscuro/Capitulos/Keiko Yamasuki.md",
     "El Bosque Oscuro/Capitulos/Año 12 de la era de la crisis.md",
     "El Bosque Oscuro/Conceptos/Tianti III.md",
     "El Bosque Oscuro/Capitulos/Año 8 de la era critica/24-06-2026 (Teoria del bosque oscuro).md",
@@ -218,16 +240,7 @@
     "El Bosque Oscuro/Personajes/Aristoteles.md",
     "El Bosque Oscuro/Personajes/Mozi.md",
     "El Bosque Oscuro/Conceptos/Sofon.md",
-    "El Bosque Oscuro/Conceptos/Derrotismo.md",
-    "El Bosque Oscuro/Personajes/Frederick Tyler.md",
-    "El Bosque Oscuro/Capitulos/Año 3 de la era critica/16-06-2026.md",
     "El Bosque Oscuro/Capitulos/Año 8 de la era critica",
-    "El Bosque Oscuro/Personajes/Zhuang Yan.md",
-    "El Bosque Oscuro/Conceptos/Hubble II.md",
-    "El Bosque Oscuro/Personajes/Xia Xia.md",
-    "El Bosque Oscuro/Capitulos/Año 3 de la era critica/14-06-2026.md",
-    "El Bosque Oscuro/Capitulos/Año 3 de la era critica/Año 3 de la era critica.md",
-    "El Bosque Oscuro/Personajes/Shi Qiang.md",
     "El Bosque Oscuro/Capitulos/Año 3 de la era critica",
     "assets/Pasted image 20260406072327.png",
     "Libros.base",

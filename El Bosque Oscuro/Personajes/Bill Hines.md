@@ -3,3 +3,7 @@ La primer persona en ser nomida a dos premios nobel: Fisica y medicina. Esto por
 
 # Plan
 Acelerar de alguna forma la evolucion de la inteligencia general de los humanos, a ver si en 200 años a ellos se les ocurre algo mejor.
+
+---
+
+Al punto del [[Año 20 de la era de la crisis]] su proyecto se desarrollo hasta lograr el [[Precinto Mental]]
