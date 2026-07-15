@@ -1,0 +1,1 @@
+Personas que se sometieron al [[Precinto Mental]] durante el [[Año 20 de la era de la crisis]]

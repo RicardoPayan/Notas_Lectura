@@ -1,0 +1,1 @@
+Telescopio nuevo en el [[Año 205 de la era critica]] que sigue el legado de los [[Hubble II]]. Nombrado de esa forma por los primero humanos que confirmaron la estela que dejaba la flota [[Trisolaris]]

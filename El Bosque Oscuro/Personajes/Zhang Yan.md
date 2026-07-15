@@ -1,0 +1,1 @@
+Nieto de [[Zhang Yuanchao]] y amigo de [[Shi Xiaoming]]

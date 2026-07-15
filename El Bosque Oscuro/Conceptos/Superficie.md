@@ -1,0 +1,1 @@
+Ciudades que quedaron después del [[Gran Cataclismo]] sobre la superficie de la tierra.

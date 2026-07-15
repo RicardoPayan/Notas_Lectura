@@ -1,0 +1,1 @@
+Virus informático creado por la [[Organización Terrícola-trisolariana]] unos 100 años antes del [[Año 205 de la era critica]]. Este virus fue diseñado específicamente para asesinar a [[Luo ji]] con hardware que estuviera conectado en la red.
