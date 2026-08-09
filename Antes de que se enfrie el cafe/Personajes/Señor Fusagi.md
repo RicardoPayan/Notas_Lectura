@@ -1,0 +1,4 @@
+- Cliente de [[Funikuri Funikura]].
+- Estaba esperando que la [[Fantasma del vestido]] se fuera al mismo tiempo que [[Fumiko]].
+- Esposo de [[Kotake]]
+- Tiene Alzheimer.

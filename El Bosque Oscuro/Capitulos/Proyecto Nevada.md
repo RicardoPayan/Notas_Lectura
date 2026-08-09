@@ -1,0 +1,1 @@
+Un proyecto para levantar una nube de polvo con bombas de higrogeno en el sistema solar y poder detectar la llega de la sondas [[Trisolaris]]

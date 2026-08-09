@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "64a891625c60cc7e",
+            "id": "deb9ecfde92830d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El Bosque Oscuro/Capitulos/Año 205 de la Era critica/15-07-2026.md",
+                "file": "Antes de que se enfrie el cafe/Partes/Marido y Mujer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15-07-2026"
+              "title": "Marido y Mujer"
             }
           }
         ]
@@ -41,10 +41,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -197,66 +199,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "64a891625c60cc7e",
+  "active": "deb9ecfde92830d9",
   "lastOpenFiles": [
-    "El Bosque Oscuro/Conceptos/Dongfang Yanxu.md",
-    "El Bosque Oscuro/Capitulos/Año 205 de la Era critica/15-07-2026.md",
-    "El Bosque Oscuro/Conceptos/Proyecto Radiante.md",
-    "El Bosque Oscuro/Capitulos/Año 12 de la era de la crisis.md",
-    "Prisioneros de la geografia/Capitulos/Introducción.md",
-    "El Bosque Oscuro/Conceptos/Gota.md",
-    "El Bosque Oscuro/Personajes/Ding yi.md",
-    "El Bosque Oscuro/Capitulos/Año 205 de la Era critica/12-07-2026.md",
+    "Antes de que se enfrie el cafe/Personajes/Señor Fusagi.md",
+    "Antes de que se enfrie el cafe/Personajes/Kotake.md",
+    "Antes de que se enfrie el cafe/Partes/Marido y Mujer.md",
+    "Prisioneros de la geografia/Capitulos/Mapa 1 - Rusia.md",
+    "assets/Pasted image 20260803111540.png",
+    "assets/Pasted image 20260803111511.png",
     "Prisioneros de la geografia/Capitulos/Sin título.base",
-    "Prisioneros de la geografia/Capitulos/HAARP.md",
+    "Antes de que se enfrie el cafe/Partes/Novios.md",
+    "Antes de que se enfrie el cafe/Conceptos/Reglas para el viaje.md",
+    "Antes de que se enfrie el cafe/Personajes/Fantasma del vestido.md",
+    "Por leer/No Ficcion.md",
+    "Me gustaría lee.md",
+    "Untitled/Untitled",
+    "Por leer",
+    "Libros.base",
+    "Antes de que se enfrie el cafe/Personajes/Nagare Tokita.md",
+    "Antes de que se enfrie el cafe/Personajes/Yaeko Hirai.md",
+    "Antes de que se enfrie el cafe/Personajes/Kazu.md",
+    "Antes de que se enfrie el cafe/Personajes/Fumiko.md",
+    "Antes de que se enfrie el cafe/Personajes/Goro.md",
+    "Antes de que se enfrie el cafe/Partes/Prologo.md",
+    "Prisioneros de la geografia/Capitulos/Introducción.md",
+    "El Bosque Oscuro/Capitulos/Prologo.md",
+    "Insight/Insight - El duelo de los soles.md",
+    "Antes de que se enfrie el cafe/Conceptos/Funikuri Funikura.md",
+    "Antes de que se enfrie el cafe/Antes de que se enfrié el café.md",
+    "Antes de que se enfrie el cafe/Partes",
+    "Antes de que se enfrie el cafe/Untitled.md",
+    "Antes de que se enfrie el cafe/Conceptos",
+    "Antes de que se enfrie el cafe/Personajes",
+    "Axiomas de Sociología Cósmica.md",
+    "Antes de que se enfrie el cafe/Toshikazu Kawaguchi.md",
+    "assets/Pasted image 20260722160226.png",
+    "assets/Pasted image 20260722160201.png",
+    "Antes de que se enfrie el cafe",
+    "El Bosque Oscuro/Reseña.md",
+    "El Bosque Oscuro/Capitulos/Final 22-06-2026.md",
+    "El Bosque Oscuro/Capitulos/Proyecto Nevada.md",
     "assets/Pasted image 20260712162701.png",
-    "Prisioneros de la geografia/Capitulos/India.md",
     "assets/Pasted image 20260712162343.png",
-    "Prisioneros de la geografia/Países/China.md",
     "assets/Pasted image 20260712162303.png",
-    "Prisioneros de la geografia/Conceptos/Geopolítica.md",
-    "Prisioneros de la geografia/Capitulos/Vladimir Putin.md",
-    "Prisioneros de la geografia/Países/Rusia.md",
     "assets/Pasted image 20260712160827.png",
     "Prisioneros de la geografia/Países",
     "assets/Pasted image 20260712160636.png",
     "Prisioneros de la geografia/Personas",
-    "Prisioneros de la geografia/Sin título.md",
-    "Prisioneros de la geografia/Prisioneros de la geografía.md",
-    "El Bosque Oscuro/El Bosque Oscuro.md",
-    "Insight/Insight - El duelo de los soles.md",
-    "Prisioneros de la geografia/Capitulos",
-    "Prisioneros de la geografia/Personas/Tim Marshall.md",
-    "Prisioneros de la geografia/Conceptos",
     "assets/Pasted image 20260712155730.png",
-    "Insight/Capitulos/15-16.md",
-    "Prisioneros de la geografia",
-    "El Bosque Oscuro/Capitulos/Año 205 de la Era critica/Sombra Azul.md",
-    "El Bosque Oscuro/Conceptos/Ringer-Fitzroy.md",
-    "El Bosque Oscuro/Conceptos/Ultima Frontera.md",
-    "El Bosque Oscuro/Capitulos/Año 205 de la Era critica/11-07-2026.md",
-    "El Bosque Oscuro/Capitulos/Año 205 de la Era critica/09-07-2026.md",
-    "El Bosque Oscuro/Conceptos/Selección natural.md",
-    "Untitled.canvas",
-    "El Bosque Oscuro/Personajes/Untitled.base",
-    "El Bosque Oscuro/Capitulos/Año 205 de la Era critica",
-    "El Bosque Oscuro/Capitulos/Año 8 de la era critica",
-    "El Bosque Oscuro/Capitulos/Año 3 de la era critica",
-    "assets/Pasted image 20260406072327.png",
-    "assets/Pasted image 20260405194023.png",
-    "assets/Pasted image 20260405170626.png",
-    "assets/Pasted image 20260203211511.png"
+    "Untitled.canvas"
   ]
 }

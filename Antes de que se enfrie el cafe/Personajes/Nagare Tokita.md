@@ -1,0 +1,1 @@
+Dueño de [[Funikuri Funikura]]

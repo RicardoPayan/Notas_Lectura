@@ -1,0 +1,4 @@
+- Cliente de [[Funikuri Funikura]].
+- La que convence a [[Señor Fusagi]] de irse mientras [[Fumiko]] esperaba la banca.
+- Esposa de [[Kotake]]
+- Enfermera

@@ -1,0 +1,1 @@
+Las naves que escaparon del sistema solar después del ataque de la [[Gota]]

@@ -1,0 +1,1 @@
+La **Teoría del Bosque Oscuro** es una hipótesis que explica la **Paradoja de Fermi** (la ausencia de evidencia de vida extraterrestre) sugiriendo que el universo está habitado por muchas civilizaciones, pero todas permanecen en **silencio estratégico** por miedo a ser destruidas

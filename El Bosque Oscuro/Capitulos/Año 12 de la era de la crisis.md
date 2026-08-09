@@ -6,7 +6,7 @@ Toda esta parte me la lei seguida sin escribir notas antes ya que era muy corta 
 
 - [[Luo ji]] creo que ya esta criogenizado.
 - La flota [[Trisolaris]] ha enviado unas sondas espaciales a la tierra, lo que es raro teniendo en cuenta que tienen a los [[Sofon | Sofones]].
-	- Estas sondas fueron enviados el mismo dia que [[Luo ji]] conto su plan de usar el sol como antena para enviar la [[Maldicion]].
+	- Estas sondas fueron enviados el mismo dia que [[Luo ji]] conto su plan de usar el sol como antena para enviar la [[Maldición]].
 - La humanidad logro diseñar y construir elevadores espaciales. El actual siendo llamado [[Tianti III]].
 
 ## Fusion nuclear

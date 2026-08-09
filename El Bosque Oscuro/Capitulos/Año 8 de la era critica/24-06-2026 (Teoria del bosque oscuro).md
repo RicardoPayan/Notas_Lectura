@@ -4,7 +4,7 @@ Creo que Ji quiere meter un tercer factor a esta guerra; basicamente los [[Triso
 [[Luo ji]] es como:
 > Nosotros no podemos contra ti, pero ellos si y si quieres mi planeta, vas a tener que pelear junto a mi para salvarlo.
 
-Tambien, como la [[Maldicion]] tardaria 50 años en llegar, mas 50 años en tener una respuesta. Ji decidio criogenisar hasta tener una resultado.
+Tambien, como la [[Maldición]] tardaria 50 años en llegar, mas 50 años en tener una respuesta. Ji decidio criogenisar hasta tener una resultado.
 
 ---
 

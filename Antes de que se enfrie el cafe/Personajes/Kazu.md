@@ -1,0 +1,1 @@
+Atiende la barra en [[Funikuri Funikura]]

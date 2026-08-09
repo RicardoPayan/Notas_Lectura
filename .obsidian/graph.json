@@ -32,7 +32,14 @@
       "query": "path:\"Prisioneros de la geografia\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 2709033
+      }
+    },
+    {
+      "query": "path:\"Antes de que se enfrie el cafe\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7591149
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.36288733188204103,
+  "scale": 0.21702506614345501,
   "close": true
 }
