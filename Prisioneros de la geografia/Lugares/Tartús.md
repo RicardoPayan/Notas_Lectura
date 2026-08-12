@@ -1,0 +1,3 @@
+Tartus is a major port city on the Mediterranean coast of Syria.[4] It is the second largest port city in Syria (after Latakia), and the largest city in Tartus Governorate.[5] Tartus was under the governance of Latakia Governorate until the 1970s, when it became a separate governorate.[6] The population is 458,327 (2023 estimate).[7] In the summer it is a vacation spot for many Syrians.
+
+![[Pasted image 20260811104729.png]]

@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "deb9ecfde92830d9",
+            "id": "9eec91d4c97c3817",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Antes de que se enfrie el cafe/Partes/Marido y Mujer.md",
+                "file": "Prisioneros de la geografia/Capitulos/Mapa 1 - Rusia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marido y Mujer"
+              "title": "Mapa 1 - Rusia"
             }
           }
         ]
@@ -46,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -199,27 +199,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "deb9ecfde92830d9",
+  "active": "9eec91d4c97c3817",
   "lastOpenFiles": [
+    "Prisioneros de la geografia/Personas/Iván El Terrible.md",
+    "Prisioneros de la geografia/Capitulos/Mapa 1 - Rusia.md",
+    "assets/Pasted image 20260812114753.png",
+    "Prisioneros de la geografia/Conceptos/South Stream.md",
+    "assets/Pasted image 20260812114729.png",
+    "Prisioneros de la geografia/Lugares/Alemania.md",
+    "Prisioneros de la geografia/Lugares/Estados Unidos de Norteamerica.md",
+    "Prisioneros de la geografia/Conceptos/Kremlin.md",
+    "assets/Pasted image 20260812114402.png",
+    "Prisioneros de la geografia/Conceptos/Rus de Kiev.md",
+    "assets/Pasted image 20260811105155.png",
+    "Prisioneros de la geografia/Lugares/Tartús.md",
+    "assets/Pasted image 20260811104729.png",
+    "Prisioneros de la geografia/Capitulos/Sin título.base",
+    "Prisioneros de la geografia/Lugares/Siria.md",
+    "Prisioneros de la geografia/Lugares/Sebastopol.md",
+    "Prisioneros de la geografia/Conceptos/OTAN.md",
+    "Prisioneros de la geografia/Lugares/Ucrania.md",
+    "assets/Pasted image 20260811104547.png",
+    "assets/Pasted image 20260811103557.png",
+    "assets/Pasted image 20260811103510.png",
+    "Antes de que se enfrie el cafe/Partes/Marido y Mujer.md",
     "Antes de que se enfrie el cafe/Personajes/Señor Fusagi.md",
     "Antes de que se enfrie el cafe/Personajes/Kotake.md",
-    "Antes de que se enfrie el cafe/Partes/Marido y Mujer.md",
-    "Prisioneros de la geografia/Capitulos/Mapa 1 - Rusia.md",
     "assets/Pasted image 20260803111540.png",
     "assets/Pasted image 20260803111511.png",
-    "Prisioneros de la geografia/Capitulos/Sin título.base",
     "Antes de que se enfrie el cafe/Partes/Novios.md",
     "Antes de que se enfrie el cafe/Conceptos/Reglas para el viaje.md",
     "Antes de que se enfrie el cafe/Personajes/Fantasma del vestido.md",
@@ -234,31 +253,12 @@
     "Antes de que se enfrie el cafe/Personajes/Fumiko.md",
     "Antes de que se enfrie el cafe/Personajes/Goro.md",
     "Antes de que se enfrie el cafe/Partes/Prologo.md",
-    "Prisioneros de la geografia/Capitulos/Introducción.md",
-    "El Bosque Oscuro/Capitulos/Prologo.md",
-    "Insight/Insight - El duelo de los soles.md",
-    "Antes de que se enfrie el cafe/Conceptos/Funikuri Funikura.md",
-    "Antes de que se enfrie el cafe/Antes de que se enfrié el café.md",
     "Antes de que se enfrie el cafe/Partes",
-    "Antes de que se enfrie el cafe/Untitled.md",
     "Antes de que se enfrie el cafe/Conceptos",
     "Antes de que se enfrie el cafe/Personajes",
-    "Axiomas de Sociología Cósmica.md",
-    "Antes de que se enfrie el cafe/Toshikazu Kawaguchi.md",
-    "assets/Pasted image 20260722160226.png",
-    "assets/Pasted image 20260722160201.png",
     "Antes de que se enfrie el cafe",
-    "El Bosque Oscuro/Reseña.md",
-    "El Bosque Oscuro/Capitulos/Final 22-06-2026.md",
-    "El Bosque Oscuro/Capitulos/Proyecto Nevada.md",
-    "assets/Pasted image 20260712162701.png",
-    "assets/Pasted image 20260712162343.png",
-    "assets/Pasted image 20260712162303.png",
-    "assets/Pasted image 20260712160827.png",
-    "Prisioneros de la geografia/Países",
-    "assets/Pasted image 20260712160636.png",
+    "Prisioneros de la geografia/Lugares",
     "Prisioneros de la geografia/Personas",
-    "assets/Pasted image 20260712155730.png",
     "Untitled.canvas"
   ]
 }

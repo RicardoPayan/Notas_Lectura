@@ -1,0 +1,1 @@
+El **Kremlin** (del ruso _kreml_, "ciudadela") es un complejo fortificado ubicado en el centro de **Moscú**, Rusia, que sirve como **sede oficial del presidente de la Federación Rusa** y símbolo histórico del poder estatal

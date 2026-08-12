@@ -1,0 +1,3 @@
+Siria es un país soberano del Oriente Próximo,[8] bañado por la costa levantina mediterránea. Comparte fronteras con Turquía por el norte, con Irak por el este, con Israel y Jordania al sur, y con Líbano y el mar Mediterráneo por el oeste, pudiéndose ver desde sus costas a lo lejos la isla de Chipre.[9] Siria es miembro de la Organización de las Naciones Unidas desde su fundación.
+
+![[Pasted image 20260811104547.png|489]]

@@ -1,6 +1,6 @@
 > ¿Por qué no colocaste algunas montañas en Ucrania?
 
-Es la figurativa con la que empieza el libro, donde [[Vladimir Putin]] le pregunta eso a Dios. Si hubiera montañas ahí, hubiera dificultado los ataques a [[Prisioneros de la geografia/Países/Rusia]].
+Es la figurativa con la que empieza el libro, donde [[Vladimir Putin]] le pregunta eso a Dios. Si hubiera montañas ahí, hubiera dificultado los ataques a [[Rusia]].
 
 Con esto comienza el libro, sentando exactamente la premisa que navegaremos: **El paisaje ha aprisionado a los lideres, dejándoles menos opciones y espacio para maniobrar del que uno podría pensar**. Una realidad a la que se enfrentaron los Imperios y naciones mas antiguas, y a la que se siguen enfrentando hoy día.
 **El terreno en el que vivimos siempre nos ha condicionado**. Moldea las guerras, el poder, la cultura, política y desarrollo social. Montañas, ríos, junglas, bosques, desiertos. No existe un factor geográfico mas importante que otro, cada lugar tiene los suyos.

@@ -1,0 +1,3 @@
+Estados Unidos, es una federación constituida en una república constitucional compuesta por cincuenta estados y un distrito federal. Limita al norte con Canadá y al sur con México. Su capital es Washington D. C. y su ciudad más poblada es Nueva York. La mayor parte del país se ubica en el medio de América del Norte ―donde se encuentran sus cuarenta y ocho estados contiguos y Washington D. C.―, entre los océanos Pacífico y Atlántico.
+
+![[Pasted image 20260811105155.png|373]]

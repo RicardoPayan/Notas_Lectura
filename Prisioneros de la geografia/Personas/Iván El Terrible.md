@@ -1,0 +1,1 @@
+Iván IV de Rusia, conocido como **Iván el Terrible**, fue el primer zar coronado de Rusia (reinó desde 1547) y el monarca que transformó el Principado de Moscú en un vasto imperio
