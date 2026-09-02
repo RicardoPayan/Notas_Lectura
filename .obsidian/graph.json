@@ -41,9 +41,16 @@
         "a": 1,
         "rgb": 7591149
       }
+    },
+    {
+      "query": "path:Dune  ",
+      "color": {
+        "a": 1,
+        "rgb": 15325027
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6067834374183326,
+  "scale": 0.12979201861441983,
   "close": true
 }

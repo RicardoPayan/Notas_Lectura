@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "434a93e713dda410",
+        "id": "b709ed0feeb2f7fb",
         "type": "tabs",
         "children": [
           {
-            "id": "9eec91d4c97c3817",
+            "id": "ba80b92123f4b9ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prisioneros de la geografia/Capitulos/Mapa 1 - Rusia.md",
+                "file": "Dune/Capítulos/7-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mapa 1 - Rusia"
+              "title": "7-10"
             }
           }
         ]
@@ -63,7 +63,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
@@ -211,54 +211,55 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "9eec91d4c97c3817",
+  "active": "ba80b92123f4b9ae",
   "lastOpenFiles": [
-    "Prisioneros de la geografia/Personas/Iván El Terrible.md",
-    "Prisioneros de la geografia/Capitulos/Mapa 1 - Rusia.md",
-    "assets/Pasted image 20260812114753.png",
-    "Prisioneros de la geografia/Conceptos/South Stream.md",
-    "assets/Pasted image 20260812114729.png",
-    "Prisioneros de la geografia/Lugares/Alemania.md",
-    "Prisioneros de la geografia/Lugares/Estados Unidos de Norteamerica.md",
-    "Prisioneros de la geografia/Conceptos/Kremlin.md",
-    "assets/Pasted image 20260812114402.png",
-    "Prisioneros de la geografia/Conceptos/Rus de Kiev.md",
-    "assets/Pasted image 20260811105155.png",
-    "Prisioneros de la geografia/Lugares/Tartús.md",
-    "assets/Pasted image 20260811104729.png",
-    "Prisioneros de la geografia/Capitulos/Sin título.base",
-    "Prisioneros de la geografia/Lugares/Siria.md",
-    "Prisioneros de la geografia/Lugares/Sebastopol.md",
-    "Prisioneros de la geografia/Conceptos/OTAN.md",
-    "Prisioneros de la geografia/Lugares/Ucrania.md",
-    "assets/Pasted image 20260811104547.png",
-    "assets/Pasted image 20260811103557.png",
-    "assets/Pasted image 20260811103510.png",
-    "Antes de que se enfrie el cafe/Partes/Marido y Mujer.md",
-    "Antes de que se enfrie el cafe/Personajes/Señor Fusagi.md",
-    "Antes de que se enfrie el cafe/Personajes/Kotake.md",
-    "assets/Pasted image 20260803111540.png",
-    "assets/Pasted image 20260803111511.png",
-    "Antes de que se enfrie el cafe/Partes/Novios.md",
-    "Antes de que se enfrie el cafe/Conceptos/Reglas para el viaje.md",
-    "Antes de que se enfrie el cafe/Personajes/Fantasma del vestido.md",
+    "Dune/Personajes/Margot Dama Fenring.md",
+    "Dune/Capítulos/7-10.md",
+    "Dune/Conceptos/Gusano de Arena.md",
+    "assets/Pasted image 20260902120634.png",
+    "Dune/Conceptos/Melange.md",
+    "assets/Pasted image 20260902120602.png",
+    "Dune/Personajes/Wanna.md",
+    "Dune/Personajes/Leto Atreides.md",
+    "Dune/Conceptos/Shai-Hulud.md",
+    "Dune/Personajes/Shadout Mapes.md",
+    "Dune/Conceptos/Cuchillo Crys.md",
+    "Dune/Conceptos/Salusa Secundus.md",
+    "Dune/Capítulos/6.md",
+    "Dune/Personajes/Arrakis.md",
+    "assets/Pasted image 20260827144134.png",
+    "assets/Pasted image 20260827144040.png",
+    "Dune/Conceptos/Cofradía.md",
+    "Dune/Casas-Razas/Sardaukar.md",
+    "assets/Pasted image 20260827143304.png",
+    "Dune/Casas-Razas/Fremen.md",
+    "assets/Pasted image 20260827143116.png",
+    "assets/Pasted image 20260827142946.png",
+    "Dune/Capítulos/3 - 5.md",
+    "Dune/Dune.md",
+    "Dune/Personajes/Padishah.md",
+    "Dune/Conceptos/CHOAM.md",
+    "Por leer/Ficcion.md",
     "Por leer/No Ficcion.md",
-    "Me gustaría lee.md",
+    "Dune/Frank Herbert.md",
+    "Dune/Personajes/Doctor Yueh.md",
+    "Dune/Conceptos/Escudos.md",
+    "Dune/Personajes/Gurney Halleck.md",
+    "Dune/Personajes/Muad'Dib.md",
+    "assets/Pasted image 20260824124938.png",
+    "Dune/Dune Edicion ilustrada - Frank Herbert.pdf",
+    "Dune/Conceptos",
+    "Dune/Capítulos",
+    "assets/Pasted image 20260823200807.png",
+    "Dune/Casas-Razas",
+    "Dune/Sin título.canvas",
+    "assets/Pasted image 20260823195442.png",
+    "Dune/Personajes",
+    "Dune",
+    "Prisioneros de la geografia/Capitulos/Sin título.base",
     "Untitled/Untitled",
     "Por leer",
     "Libros.base",
-    "Antes de que se enfrie el cafe/Personajes/Nagare Tokita.md",
-    "Antes de que se enfrie el cafe/Personajes/Yaeko Hirai.md",
-    "Antes de que se enfrie el cafe/Personajes/Kazu.md",
-    "Antes de que se enfrie el cafe/Personajes/Fumiko.md",
-    "Antes de que se enfrie el cafe/Personajes/Goro.md",
-    "Antes de que se enfrie el cafe/Partes/Prologo.md",
-    "Antes de que se enfrie el cafe/Partes",
-    "Antes de que se enfrie el cafe/Conceptos",
-    "Antes de que se enfrie el cafe/Personajes",
-    "Antes de que se enfrie el cafe",
-    "Prisioneros de la geografia/Lugares",
-    "Prisioneros de la geografia/Personas",
     "Untitled.canvas"
   ]
 }

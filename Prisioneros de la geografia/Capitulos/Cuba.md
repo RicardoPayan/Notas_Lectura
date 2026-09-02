@@ -1,0 +1,1 @@
+Cuba, oficialmente República de Cuba, es un Estado soberano e insular ubicado en las Antillas del mar Caribe en la región de norteamérica. El territorio está organizado en quince provincias y un municipio especial con La Habana como capital y ciudad más poblada.

@@ -1,0 +1,1 @@
+Tecnología que cubre al usuario de una formada por un campo eléctrico. Cubre ataques de alta velocidad, como balas, forzando el combate cuerpo a cuerpo.

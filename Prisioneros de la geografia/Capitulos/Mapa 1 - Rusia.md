@@ -88,13 +88,13 @@ Esto es un ejemplo de un tipo de relación política que me parece importante. T
 
 Rusia le dice a Siria: Me interesa tener presencia en tu costa mediterránea. Dejame estar ahí y yo te daré protección. Con esto Rusia logra expandir su presencia a través de tratos con otros países.
 
-Por lado, tenemos [[Estados Unidos de Norteamerica]] azuzando a Romania uno de los socios de la [[OTAN]], para que incremente sus flota en el mar negro.
+Por lado, tenemos [[Estados Unidos de America]] azuzando a Romania uno de los socios de la [[OTAN]], para que incremente sus flota en el mar negro.
 Estados Unidos ve a Rusia como un potencial peligro, entonces juega su mismo juego; usando paises cercanos a Rusia para hacer tratos y aumentar su presencia.
 
 ---
 # 12-08-2026
 Toda esta ultima parte de Rusia gira entorno a su liderazgo como fuente de energía para otros países.
-El mejor arma de Rusia en la actualidad es el gas y el petróleo. Solo [[Estados Unidos de Norteamerica]] lo supera como principal proveedor mundial de gas natural.
+El mejor arma de Rusia en la actualidad es el gas y el petróleo. Solo [[Estados Unidos de America]] lo supera como principal proveedor mundial de gas natural.
 
 Muchos países europeos tienen dependencia de Rusia y procuran liberarse de eta dependencia de energía rusa.
 Por ejemplo, en torno a la mitad del consumo de gas de [[Alemania]] procede de Rusia, lo que, junto con numerosos acuerdos comerciales, explica por qué los políticos alemanes no se apresuran a criticar el comportamiento agresivo del [[Kremlin]] del modo en que lo hace Reino Unido, cuya dependencia es solo del 13%.

@@ -1,1 +1,6 @@
 - [Game Theory: An Introduction](https://www.goodreads.com/en/book/show/15930573-game-theory) - Steven Tadelis
+- Starting Somewhere - Roderick Douglass
+- History Ends in Green - Terence Mckenna
+- The Denial of Death - Ernest Becker
+- Ego and Archetype.
+- How to hold a Cockroach - Matthew Maxwell

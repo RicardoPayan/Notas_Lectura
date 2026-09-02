@@ -1,0 +1,3 @@
+El Misisipi o Misisipí[1] es un largo río del centro de Estados Unidos que fluye en dirección sur a través de diez estados —Minesota, Wisconsin, Iowa, Misuri, Illinois, Kentucky, Tennessee, Arkansas, Misisipi y Luisiana— hasta desaguar en el golfo de México (océano Atlántico), cerca de Nueva Orleans. Tiene una longitud de 3766 km, pero si se considera el sistema Misisipi-Misuri alcanza los 5971 km, que lo sitúan como el cuarto más largo del mundo, tras los ríos Amazonas, Nilo y Yangtsé.
+
+![[Pasted image 20260820130818.png]]
