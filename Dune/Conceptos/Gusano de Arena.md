@@ -1,4 +1,5 @@
-Gusanos gigantes de [[Arrakis]].
+Gusanos gigantes de [[Arrakis]]. Pueden medir hasta 400 metros.
+Criaturas territoriales.
 Tambien conocido como [[Shai-Hulud]].
 Creo que son los que producen la [[Melange]].
 

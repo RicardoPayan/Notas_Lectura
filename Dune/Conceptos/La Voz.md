@@ -1,1 +1,1 @@
-Habilidad, presuntamente de las [[Bene Gesserit]], para hacer que alguien obedezca una orden.
+Habilidad de las [[Bene Gesserit]] para hacer que alguien obedezca una orden.

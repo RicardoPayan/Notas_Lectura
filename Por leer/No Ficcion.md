@@ -4,3 +4,5 @@
 - The Denial of Death - Ernest Becker
 - Ego and Archetype.
 - How to hold a Cockroach - Matthew Maxwell
+- Las religiones del mundo - Huston Smith
+- Cultural Anthropology - Kenneth J Guest

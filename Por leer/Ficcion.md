@@ -1,4 +1,12 @@
-
+---
+banner: assets/Pasted image 20260903103011.png
+banner-x: 48
+banner-y: 53
+banner-height: 430
+banner-display: contain
+banner-max-width: 730
+banner-repeat: true
+---
 - Jardines de la luna
 - Las niñas bien - Guadalupe Loaeza
 - Perras de reserva - Dahlia de la cerda.
@@ -13,4 +21,3 @@
 - Beware of pitty- Stefan Zweig
 - Giovannis Room - James Baldwin
 - Sold - Patricia McCormick
--  

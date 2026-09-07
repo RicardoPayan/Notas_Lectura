@@ -1,0 +1,1 @@
+un ser humano entrenado para funcionar como una **computadora humana**.
