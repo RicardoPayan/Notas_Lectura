@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dune/Capítulos/11 - 16.md",
+                "file": "Dune/Capítulos/17-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 - 16"
+              "title": "17-19"
             }
           }
         ]
@@ -194,8 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,9 +212,10 @@
   },
   "active": "ba80b92123f4b9ae",
   "lastOpenFiles": [
-    "Dune/Conceptos/Gusano de Arena.md",
     "Dune/Capítulos/11 - 16.md",
-    "Dune/Capítulos/Destiltraje.md",
+    "Dune/Capítulos/17-19.md",
+    "Dune/Conceptos/Gusano de Arena.md",
+    "Dune/Conceptos/Destiltraje.md",
     "assets/Pasted image 20260907114338.png",
     "Dune/Personajes/Kynes.md",
     "assets/Pasted image 20260907113918.png",
