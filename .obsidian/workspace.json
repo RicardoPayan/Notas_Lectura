@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dune/Capítulos/17-19.md",
+                "file": "Visión Ciega/Capítulos/Teseo/08-10-2026 -- Despertar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17-19"
+              "title": "08-10-2026 -- Despertar"
+            }
+          },
+          {
+            "id": "b031f58e08a2b477",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visión Ciega/Personajes/Sarasti.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sarasti"
+            }
+          },
+          {
+            "id": "f1ab34cd6c00eb32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visión Ciega/Conceptos/Vampiros.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vampiros"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,8 +214,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -194,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,55 +240,55 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "ba80b92123f4b9ae",
+  "active": "f1ab34cd6c00eb32",
   "lastOpenFiles": [
-    "Dune/Capítulos/11 - 16.md",
-    "Dune/Capítulos/17-19.md",
-    "Dune/Conceptos/Gusano de Arena.md",
-    "Dune/Conceptos/Destiltraje.md",
-    "assets/Pasted image 20260907114338.png",
-    "Dune/Personajes/Kynes.md",
-    "assets/Pasted image 20260907113918.png",
-    "Dune/Personajes/Emperador Padishah.md",
-    "Dune/Conceptos/Lisan al-Gaib.md",
-    "assets/Pasted image 20260907113204.png",
-    "Dune/Conceptos/Cuchillo Crys.md",
-    "assets/Pasted image 20260907112814.png",
-    "Dune/Personajes/Leto Atreides.md",
-    "assets/Pasted image 20260907112402.png",
-    "Dune/Personajes/Stilgar.md",
-    "assets/Pasted image 20260907112257.png",
-    "Dune/Conceptos/Sietch.md",
-    "Dune/Personajes/Duncan Idaho.md",
-    "Dune/Personajes/Hawat.md",
-    "Dune/Conceptos/Mentat.md",
+    "Visión Ciega/Personajes/Sarasti.md",
+    "Visión Ciega/Capítulos/Teseo/08-10-2026 -- Despertar.md",
+    "Visión Ciega/Personajes/Szpindel.md",
+    "Visión Ciega/Conceptos/Vampiros.md",
+    "Visión Ciega/Conceptos/Teseo.md",
+    "Visión Ciega/Conceptos",
+    "Visión Ciega/Personajes/Siri.md",
+    "Visión Ciega/Capítulos/Prólogo..md",
+    "Visión Ciega/Capítulos/Teseo",
+    "Visión Ciega/Personajes/Robert Paglino.md",
+    "Visión Ciega/Personajes/Pag.md",
+    "Visión Ciega/Personajes",
+    "Visión Ciega/Visión Ciega.md",
+    "Visión Ciega/Capítulos",
+    "Visión Ciega/Peter Watts.md",
+    "assets/Pasted image 20261007211725.png",
     "Por leer/No Ficcion.md",
+    "Visión Ciega",
+    "Me gustaría lee.md",
+    "Dune/Capítulos/30-35.md",
+    "Dune/Personajes/Muad'Dib.md",
+    "assets/Pasted image 20261007210219.png",
+    "Dune/Personajes/Jamis.md",
+    "Dune/Conceptos/Cofradía.md",
+    "Dune/Personajes/Chani.md",
+    "assets/Pasted image 20261007205641.png",
+    "Dune/Capítulos/20-29.md",
     "Por leer/Ficcion.md",
-    "assets/Pasted image 20260903103011.png",
-    "Dune/Conceptos/La Voz.md",
-    "Dune/Personajes/Jessica.md",
-    "assets/Pasted image 20260902121803.png",
-    "Dune/Capítulos/7-10.md",
-    "Dune/Personajes/Margot Dama Fenring.md",
-    "assets/Pasted image 20260902120634.png",
-    "Dune/Conceptos/Melange.md",
-    "assets/Pasted image 20260902120602.png",
-    "Dune/Personajes/Wanna.md",
-    "Dune/Conceptos/Shai-Hulud.md",
-    "Dune/Personajes/Shadout Mapes.md",
-    "Dune/Conceptos/Salusa Secundus.md",
-    "Dune/Capítulos/6.md",
+    "Dune/Capítulos/17-19.md",
+    "Dune/Capítulos/2..md",
+    "Dune/Capítulos/1..md",
+    "Dune/Conceptos/Tóptero.md",
+    "assets/Pasted image 20260925120953.png",
+    "Dune/Personajes/Barón Harkonnen.md",
+    "Dune/Capítulos/11 - 16.md",
+    "assets/Pasted image 20260907114338.png",
+    "assets/Pasted image 20260907113918.png",
+    "assets/Pasted image 20260907113204.png",
+    "assets/Pasted image 20260907112814.png",
+    "assets/Pasted image 20260907112402.png",
+    "assets/Pasted image 20260907112257.png",
     "Dune/Dune Edicion ilustrada - Frank Herbert.pdf",
     "Dune/Conceptos",
     "Dune/Capítulos",
     "Dune/Casas-Razas",
     "Dune/Sin título.canvas",
     "Dune/Personajes",
-    "Dune",
-    "Prisioneros de la geografia/Capitulos/Sin título.base",
-    "Untitled/Untitled",
-    "Por leer",
-    "Libros.base",
     "Untitled.canvas"
   ]
 }

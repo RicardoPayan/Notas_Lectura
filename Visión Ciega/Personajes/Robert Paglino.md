@@ -1,0 +1,1 @@
+Personaje misterioso, mencionado por [[Siri]] durante el [[Prólogo.]]

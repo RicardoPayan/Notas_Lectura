@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 15325027
       }
+    },
+    {
+      "query": "path:\"Visión Ciega\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.12979201861441983,
+  "scale": 0.21702506614345485,
   "close": true
 }

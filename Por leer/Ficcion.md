@@ -21,3 +21,6 @@ banner-repeat: true
 - Beware of pitty- Stefan Zweig
 - Giovannis Room - James Baldwin
 - Sold - Patricia McCormick
+- El conde de montecristo
+- Anna Karenina
+- 

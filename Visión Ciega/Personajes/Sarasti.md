@@ -1,0 +1,1 @@
+[[Vampiros|Vampiro]] líder de la misión en [[Teseo]].
