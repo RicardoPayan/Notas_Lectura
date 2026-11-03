@@ -2,5 +2,5 @@
 ![[Pasted image 20261022131505.png|302]]
 
 # Relaciones
-- Esposo de [[Ana Karenina]].
+- Esposo de [[Anna]].
 - Cuñado de [[Oblonsky]].

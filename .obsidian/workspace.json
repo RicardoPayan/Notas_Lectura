@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anna Karenina/Notas/03-11-2026.md",
+                "file": "Anna Karenina/Pesonajes/Anna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-11-2026"
+              "title": "Anna"
             }
           }
         ]
@@ -212,8 +212,8 @@
   },
   "active": "b031f58e08a2b477",
   "lastOpenFiles": [
-    "Anna Karenina/Pesonajes/Aléksei.md",
     "Anna Karenina/Notas/03-11-2026.md",
+    "Anna Karenina/Pesonajes/Aléksei.md",
     "assets/Pasted image 20261103101811.png",
     "Anna Karenina/Pesonajes/Nikolái Levin.md",
     "Anna Karenina/Pesonajes/Levin.md",

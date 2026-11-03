@@ -1,4 +1,4 @@
-Nombre completo: *Ana Arkadievna Karenina*
+Nombre completo: *Anna Arkadievna Karenina*
 
 ![[Pasted image 20261022125631.png|210]]
 
