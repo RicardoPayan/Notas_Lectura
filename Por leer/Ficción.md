@@ -22,5 +22,18 @@ banner-repeat: true
 - Giovannis Room - James Baldwin
 - Sold - Patricia McCormick
 - El conde de montecristo
-- Anna Karenina
-- 
+- Continuar la rueda del tiempo.
+- El león, la bruja y el armario (Narnia)
+- El problema de los 3 cuerpos (3re libro).
+- Jane Eyre - Charlotte Bronte
+- Fahrenheit 451.
+- La clase de griego - Han Kang.
+- La vegetariana - Han Kang.
+- Reintentar Hyperion, retomando desde lo deje.
+- Esfera - Michael Crichton.
+- Crimen y Castigo.
+- Los Pazos de Ulloa - Emilia Pardon Bazán.
+- La muerte de Iván Ilich - Lev Tolstói.
+- La carretera - Cormac McCarthy.
+- La uvas de la ira - John Steinback.
+- De ratones y hombres - John Steinback.

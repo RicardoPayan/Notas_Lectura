@@ -1,0 +1,1 @@
+objeto astronómico masivo que se encuentra en la nube de Oort  y hacia el que se dirige la [[Teseo]] tras cambiar su rumbo.

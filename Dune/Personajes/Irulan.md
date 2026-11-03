@@ -1,1 +1,1 @@
-Princesa que escribe los pasajes previos a los capítulos.
+Princesa que escribe los pasajes previos a los capítulos. Hija del [[Emperador Padishah]] y [[Bene Gesserit]].

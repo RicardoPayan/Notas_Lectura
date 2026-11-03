@@ -1,0 +1,1 @@
+Droga que se extraer de los [[Gusano de Arena|Hacedores]] para rituales [[Bene Gesserit]].

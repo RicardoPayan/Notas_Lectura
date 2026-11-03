@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "path:\"Anna Karenina\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8922405
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.21702506614345485,
+  "scale": 0.12979201861441975,
   "close": true
 }

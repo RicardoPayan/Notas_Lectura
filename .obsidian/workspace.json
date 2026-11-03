@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba80b92123f4b9ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visión Ciega/Capítulos/Teseo/08-10-2026 -- Despertar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08-10-2026 -- Despertar"
-            }
-          },
-          {
             "id": "b031f58e08a2b477",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Visión Ciega/Personajes/Sarasti.md",
+                "file": "Anna Karenina/Notas/03-11-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sarasti"
-            }
-          },
-          {
-            "id": "f1ab34cd6c00eb32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visión Ciega/Conceptos/Vampiros.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vampiros"
+              "title": "03-11-2026"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "geopol",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +63,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -240,55 +211,54 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "f1ab34cd6c00eb32",
+  "active": "b031f58e08a2b477",
   "lastOpenFiles": [
-    "Visión Ciega/Personajes/Sarasti.md",
-    "Visión Ciega/Capítulos/Teseo/08-10-2026 -- Despertar.md",
-    "Visión Ciega/Personajes/Szpindel.md",
-    "Visión Ciega/Conceptos/Vampiros.md",
-    "Visión Ciega/Conceptos/Teseo.md",
+    "Anna Karenina/Pesonajes/Aléksei.md",
+    "Anna Karenina/Notas/03-11-2026.md",
+    "assets/Pasted image 20261103101811.png",
+    "Anna Karenina/Pesonajes/Nikolái Levin.md",
+    "Anna Karenina/Pesonajes/Levin.md",
+    "Anna Karenina/Pesonajes/Vronski.md",
+    "Visión Ciega/Capítulos/Comentarios finales.md",
+    "Visión Ciega/Citas.md",
+    "Visión Ciega/Capítulos/Teseo/26-10-2026.md",
+    "Anna Karenina/Arbol de relaciones.md",
+    "Anna Karenina/Anna Karenina - Libro.md",
+    "assets/Pasted image 20261026111339.png",
+    "Anna Karenina/Pesonajes/Kitty.md",
+    "assets/Pasted image 20261026111308.png",
+    "Anna Karenina/Notas/26-10-2026.md",
+    "Anna Karenina/Familias/Scherbatski.md",
+    "Anna Karenina/Pesonajes/Princesa Natalia.md",
+    "Anna Karenina/Familias",
+    "Por leer/Ficción.md",
+    "Por leer/No Ficción.md",
+    "Prisioneros de la geografia/Capitulos/Mapa 2 - China.md",
+    "Prisioneros de la geografia/Capitulos/Mapa 1 - Rusia.md",
+    "Prisioneros de la geografia/Conceptos/Geopolítica.md",
+    "Prisioneros de la geografia/Prisioneros de la geografía.md",
+    "Prisioneros de la geografia/Capitulos/Introducción.md",
+    "Anna Karenina/Notas/22-10-2026.md",
+    "assets/Pasted image 20261022131505.png",
+    "assets/Pasted image 20261022131418.png",
+    "assets/Pasted image 20261022131330.png",
+    "assets/Pasted image 20261022131240.png",
+    "Anna Karenina/Pesonajes/Dolly.md",
+    "Anna Karenina/Pesonajes/Tania.md",
+    "Anna Karenina/Pesonajes/Gricha.md",
+    "assets/Pasted image 20261022125631.png",
+    "assets/Pasted image 20261022124910.png",
+    "assets/Pasted image 20261022124611.png",
+    "Anna Karenina/Conceptos",
+    "Anna Karenina/Notas",
+    "Anna Karenina/Pesonajes",
+    "Anna Karenina",
+    "Visión Ciega/Capítulos/Rorshach",
     "Visión Ciega/Conceptos",
-    "Visión Ciega/Personajes/Siri.md",
-    "Visión Ciega/Capítulos/Prólogo..md",
     "Visión Ciega/Capítulos/Teseo",
-    "Visión Ciega/Personajes/Robert Paglino.md",
-    "Visión Ciega/Personajes/Pag.md",
     "Visión Ciega/Personajes",
-    "Visión Ciega/Visión Ciega.md",
     "Visión Ciega/Capítulos",
-    "Visión Ciega/Peter Watts.md",
-    "assets/Pasted image 20261007211725.png",
-    "Por leer/No Ficcion.md",
-    "Visión Ciega",
-    "Me gustaría lee.md",
-    "Dune/Capítulos/30-35.md",
-    "Dune/Personajes/Muad'Dib.md",
-    "assets/Pasted image 20261007210219.png",
-    "Dune/Personajes/Jamis.md",
-    "Dune/Conceptos/Cofradía.md",
-    "Dune/Personajes/Chani.md",
-    "assets/Pasted image 20261007205641.png",
-    "Dune/Capítulos/20-29.md",
-    "Por leer/Ficcion.md",
-    "Dune/Capítulos/17-19.md",
-    "Dune/Capítulos/2..md",
-    "Dune/Capítulos/1..md",
-    "Dune/Conceptos/Tóptero.md",
-    "assets/Pasted image 20260925120953.png",
-    "Dune/Personajes/Barón Harkonnen.md",
-    "Dune/Capítulos/11 - 16.md",
-    "assets/Pasted image 20260907114338.png",
-    "assets/Pasted image 20260907113918.png",
-    "assets/Pasted image 20260907113204.png",
-    "assets/Pasted image 20260907112814.png",
-    "assets/Pasted image 20260907112402.png",
-    "assets/Pasted image 20260907112257.png",
-    "Dune/Dune Edicion ilustrada - Frank Herbert.pdf",
-    "Dune/Conceptos",
-    "Dune/Capítulos",
-    "Dune/Casas-Razas",
     "Dune/Sin título.canvas",
-    "Dune/Personajes",
     "Untitled.canvas"
   ]
 }

@@ -1,0 +1,1 @@
+Los satélites que le tomaron una foto a la tierra.

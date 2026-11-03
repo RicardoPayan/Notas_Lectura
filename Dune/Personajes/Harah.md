@@ -1,0 +1,1 @@
+Esposa del fallecido [[Jamis]]. Ahora sirvienta de [[Paul Atreides]].

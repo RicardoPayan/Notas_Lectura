@@ -1,3 +1,1 @@
-[[Bene Gesserit]] que fue maestra de [[Jessica]].
-Sale en el capitulo [[1.]].
-Es quien le pone la prueba a [[Paul Atreides]] sobre la caja.
+El titulo más alto que puede tener una [[Bene Gesserit]].

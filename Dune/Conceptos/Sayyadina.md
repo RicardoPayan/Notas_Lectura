@@ -1,0 +1,1 @@
+una **Sayyadina** es una **sacerdotisa de bajo rango** en la jerarquía religiosa de los **[[Fremen]]** que aún no ha sobrevivido al [[Agua de la Vida]] para convertirse en [[Reverenda Madre]].
